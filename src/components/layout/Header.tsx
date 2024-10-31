@@ -31,7 +31,7 @@ const Header = () => {
                 <SheetTrigger className='md:hidden'><Menu /></SheetTrigger>
                 <SheetContent>
                     <ul>
-                        <li className='space-x-5'>
+                        <li className='flex flex-col text-center pt-20 space-y-4'>
                             <Link href="/">Home</Link>
                             <Link href="/">About</Link>
                             <Link href="/">Contact</Link>
