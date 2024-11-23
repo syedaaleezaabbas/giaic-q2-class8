@@ -20,7 +20,7 @@ const Header = () => {
             </div>
             {/* nav buttons */}
             <ul className='hidden md:block'>
-                <li className='text-1xl space-x-5'>
+                <li className='text-xl space-x-5'>
                     <Link href="/">Home</Link>
                     <Link href="/about">About</Link>
                     <Link href="/contact">Contact</Link>
